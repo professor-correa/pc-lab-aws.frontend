@@ -1,1 +1,1 @@
-# pc-lab-aws.frontend
+# lab aws react + vite
